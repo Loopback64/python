@@ -6,13 +6,9 @@
 
 
 nombre = "Mi amigo Sebastian "
-
 numero1 = 25
-
 logico  = False 
-
 lista = [1, 2, 3, 4, 5 ]
-
 print(nombre)
 print(numero1)  
 print(logico   )
