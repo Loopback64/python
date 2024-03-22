@@ -1,1 +1,2 @@
-print()
+# Operadores de comparación
+
