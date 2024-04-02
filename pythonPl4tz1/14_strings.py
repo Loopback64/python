@@ -18,9 +18,11 @@ size = len(text)
 print(size)
 print("-------------")
 
+
 print(text)
 print(text.upper())
 print(text.lower())
+
 
 print("-------------")
 print("Contar el numero de veces que aparece una letra en el texto")
