@@ -12,7 +12,7 @@ numbers.insert(0,'hola')
 print(numbers)
 
 numbers.insert(3,'change')
-print(numbers)
+
 
 
 
