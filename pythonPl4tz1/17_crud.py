@@ -12,6 +12,17 @@ numbers.insert(0,'hola')
 print(numbers)
 
 numbers.insert(3,'change')
+print(numbers)
+
+tasks = ['todo 1', 'todo 2', 'todo 3']
+print(numbers)
+print(tasks)
+
+new_list = numbers + tasks
+print(new_list)
+
+# preguntamos en qe posicion esta un elemento
+index
 
 
 
