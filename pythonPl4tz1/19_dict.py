@@ -16,8 +16,12 @@ print(len(my_dict))
 print("------------")
 print(my_dict["age"])
 print(my_dict['last_name'])
-print(my_dict.get('unvalor'))
+print(my_dict.get('unvalor')) # previene un error sino existe
 
+# Como ver si existe un valor en el diccionario
+
+print('avion' in my_dict)
+print('otroqueno' in my_dict)
 
 
 
