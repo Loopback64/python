@@ -23,7 +23,7 @@ print(new_list)
 
 # preguntamos en qe posicion esta un elemento
 index
-
+asdasdasd
 
 
 
