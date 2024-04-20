@@ -37,12 +37,28 @@ print('Unimos los valores de los elementos de las tablas numbers y tasks')
 new_list = numbers + tasks
 print(new_list)
 print('-------------')
+
+
 # preguntamos en qe posicion esta un elemento
 index = new_list.index('todo 2')
+
 print(index)
 print('camia el valor de "todo 2" por el valor "todo changed"')
 new_list[index] = 'todo changed'
+
 print(new_list)
+
+print('-------------')
+print('-------------')
+
+
+print("removemos parte de la lista usando el metodo remove,  todo 1")
+new_list.remove('todo 1')
+print(new_list)
+
+
+
+
 
 
 
