@@ -44,6 +44,7 @@ print("                                                                  ")
 
 print(person)
 print("                                                                  ")
+print("                                                                  ")
 
 print('items')
 print("                                                                  ")
