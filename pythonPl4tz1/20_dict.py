@@ -48,7 +48,7 @@ print("                                                                  ")
 print("                                                                  ")
 print('items')
 print("                                                                  ")
-
+print()
 print(person.items())       # imprime todos los items del diccionario 
 print("                                                                  ")
 print("                                                                  ")
