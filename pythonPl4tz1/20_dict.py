@@ -32,7 +32,7 @@ person['age'] -= 50        # al valor actual del atributo le restamos 50
 person['langs'].append('rust')    # Usamos el metodo .append para agregar un valor al final de la lista del atributo.
 
 print(person)
-
+print(person)
 del person['last_name']    # eliminamos el atributo
 person.pop('age')          # pop es un metodo que elimina un elemento del diccionario , simepre hay darle un argumento
 print("---------------------------------------------------------------------------------------")
