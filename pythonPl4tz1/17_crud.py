@@ -2,6 +2,7 @@
 
 numbers = [1, 2, 3, 4, 5]
 print(numbers)
+
 print('imprime el orden de elemento inicia en 0,1,2,3,4')
 print(numbers[1])
 numbers[-1] = 10
