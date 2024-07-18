@@ -58,7 +58,9 @@ print("                                                                  ")
 print("                                                                  ")
 print("                                                                  ")
 print("    ")
-prin
+print("   ")
+print
+
 print('name4')
 
 
