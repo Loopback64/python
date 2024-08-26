@@ -15,7 +15,7 @@ for element in my_list:
 my_tuple = ('nico', 'juli', 'santi')
 for element in my_tuple:
     print(element)
-my_tuple
+my_tuple = ('nico')
 
 
 
