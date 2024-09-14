@@ -31,7 +31,7 @@ for element in product:
     print(element)
 
 probando 
-
+probando paso 2
 
 '''
 
