@@ -33,6 +33,7 @@ for element in product:
 probando 
 probando paso 2
 probando paso 3
+probando paso 4
 '''
 
 
