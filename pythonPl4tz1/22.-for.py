@@ -20,7 +20,7 @@ my_tuple = ('nico')
 
 
 '''
-
+dsdsd
 product = {
     'name'  = 'Camisa',
     'price' = 100,
