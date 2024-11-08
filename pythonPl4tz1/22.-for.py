@@ -20,30 +20,13 @@ my_tuple = ('nico')
 
 
 '''
-asadasdas
-sadasdasd
-dsdsd
-aasdasdasd
-asdasdasdasd
-
-product = {
-    'name'  = 'Camisa',
-    'price' = 100,
-    'stock' = 89
-}
-
-for element in product:
-    print(element)
-
-probando 
-probando paso 2
-probando paso 3
-probando paso 4
-dsfsdf
-Probando
 
 
-ñl{ñl
+
+
+
+
+
 '''
 
 
